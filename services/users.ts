@@ -30,6 +30,12 @@ const UsersService = {
       password,
       password_confirmation
     }),
+
+    signIn: ({ email, password }: SignInData) => 
+    api.post<SignInResponse>('auth/v1/user/sign_in', {
+      email,
+      password
+    }),
 }
 
 export default UsersService;
