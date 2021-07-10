@@ -20,21 +20,26 @@
   color: white!important;
 }
 
-.modal {
-  top: 20%;
+.admin_panel table thead tr th {
+  text-align: left;
 }
 
-.modal_body {
-  background-color: var(--color-primary);
-  padding: 50px;
+
+.admin_panel table thead tr th:last-of-type {
   text-align: center;
-  font-size: 29px;
 }
 
-.hover {
+.admin_panel table tbody tr {
+  background-color: var(--color-background);
+  padding-right: 110px;
+}
+
+.admin_panel table tbody tr:hover {
+  color: white!important;
+}
+
+.admin_panel table tr td div:hover {
   cursor: pointer;
-}
-
-.hover :hover {
-  color: #0056b3;
+  color: #00CFFF;
+  transition: color 0.2s;
 }

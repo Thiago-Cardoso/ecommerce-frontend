@@ -1,5 +1,5 @@
 import { Row, Col } from 'react-bootstrap';
-import styles from '../../../../styles/AdminHeader.module.css';
+import styles from './styles.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSignal, faUser, faGamepad, faCheckSquare, faLaptop, faTicketAlt, faDollarSign, faUserCircle } from '@fortawesome/free-solid-svg-icons';
 import Link from 'next/link';

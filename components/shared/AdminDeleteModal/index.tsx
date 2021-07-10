@@ -1,6 +1,6 @@
 import React from 'react';
 import { Modal, Button, Row, Col } from 'react-bootstrap';
-import styles from '../../../styles/AdminPanel.module.css';
+import styles from './styles.module.css';
 import { faTrash, faTimes } from '@fortawesome/free-solid-svg-icons';
 import StyledButton from '../StyledButton';
 
