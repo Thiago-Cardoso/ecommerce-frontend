@@ -18,5 +18,5 @@
   transition: color 0.2s;
 }
 .search_icon svg:hover {
-  color: #00CFFF;
+  color: var(--color-hover);
 }

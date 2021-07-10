@@ -7,3 +7,10 @@
 .list {
   margin-top: 50px;
 }
+
+.active {
+  color: var(--color-active);
+}
+.active svg {
+  color: var(--color-active);
+}

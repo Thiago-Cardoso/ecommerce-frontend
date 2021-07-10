@@ -40,6 +40,6 @@
 
 .admin_panel table tr td div:hover {
   cursor: pointer;
-  color: #00CFFF;
+  color: var(--color-hover);
   transition: color 0.2s;
 }
