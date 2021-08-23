@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p  align="center">Ecommerce</p>
+
+## Screenshot
+![](https://github.com/Thiago-Cardoso/ecommerce-api/blob/master/app/assets/images/ecommerce.gif)
+## Stack the Project
+
+- **React/Next**
 
 ## Getting Started
 
@@ -32,4 +38,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# ecommerce-frontend
+
+## Author
+Project created by developer
+
+<!-- ALL-CONTRIBUTOR-LIST:START - Do not remove or modify this section -->
+
+<!-- prettier-ignore -->
+
+[<img src="https://avatars1.githubusercontent.com/u/1753070?s=460&v=4" width="100px;"/><br /><sub><b>Thiago Cardoso</b></sub>](https://github.com/Thiago-Cardoso)<br />
+
+
+
